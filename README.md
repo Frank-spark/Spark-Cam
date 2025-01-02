@@ -49,7 +49,7 @@ For more information on PlanetCNC and their software, visit the official website
 
 To gain insight into the functionality and features that our software aims to support, the following open-source and commercial tools are relevant references:
 
-- **ProMa's MyPlasm Software**: [ProMa MyPlasm Software](https://www.proma.com.pl/en/myplasm/)
+- **ProMa's MyPlasm Software**: [Proma MyPlasm Software](https://proma-elektronika.com/)
 - **Cyptcut**: [Cyptcut](http://www.cyptcut.com/)
 - **SheetCam**: [SheetCam](https://www.sheetcam.com/)
 - **SVGnest**: [SVGnest](https://svgnest.com/)
