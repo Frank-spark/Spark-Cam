@@ -52,8 +52,8 @@ To gain insight into the functionality and features that our software aims to su
 - **ProMa's MyPlasm Software**: [Proma MyPlasm Software](https://proma-elektronika.com/)
 - **Cyptcut**: [Cyptcut](http://www.cypcut.net/)
 - **SheetCam**: [SheetCam](https://www.sheetcam.com/)
-- **SVGnest**: [SVGnest](https://svgnest.com/)
-- **Deepnest**: [Deepnest](https://deepnest.io/)
+- **SVGnest**: [SVGnest](https://github.com/Jack000/SVGnest)
+- **Deepnest**: [Deepnest](https://github.com/Dexus/Deepnest)
 
 These tools provide similar functionality for plasma, laser cutting, and nesting operations.
 
